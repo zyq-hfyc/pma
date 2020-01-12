@@ -28,3 +28,14 @@
 
 熟练使用JIRA等项目管理软件。熟悉Struts2、Hibernate Spring等常用框架。熟练使用HTML、CSS、JavaScript、 Ajax、Jquary、等页面技术。
 了解Maven等项目构建工具。熟练使用kettle、datastage 等数据抽取转换工具。了解nginx 高性能web服务器
+
+
+
+为什么离职？
+答：合作模式不合理。
+
+公司也是在探索一种项目外包的合作模式。 
+1. 合作模式不合理，单价太低， 工作量卡的死
+2. 碎片化时间无法控制
+3. 公司战略调整
+团队解散。 
